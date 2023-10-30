@@ -85,3 +85,5 @@
 // npm lint -покажет где ошибки
 // npm lint-fix -уберёт ошибки
 // make instal 
+
+git config --global user.name "Mona Lisa"
